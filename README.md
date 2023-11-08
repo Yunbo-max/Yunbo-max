@@ -1,5 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on Artificial Intelligence!<br>- 🌱 I’m currently learning Federated Learning, Time series analysis, Decentralised methods<br>- 👯 I’m looking to find funding and colabration for my prospective PhD project!<br>- 🤔 I’m looking for quantatitive job!<br>- 💬 Ask me about anything about self-learning scheme in computer science <br>- 📫 How to reach me: yl892@cam.ac.uk<br>- ⚡ Fun fact: Legends never die!!!
+- 🔭 I’m currently working on Artificial Intelligence!<br>- 🌱 I’m currently learning Federated Learning, Time series analysis, Decentralised methods<br>- 👯 I’m looking to find funding and colabration for my prospective PhD project!<br>- 🤔 I’m looking for quantatitive job!<br>- 💬 Ask me about anything about self-learning scheme in computer science <br>- 📫 How to reach me: [yl892@cam.ac.uk](https://yunbo-max.github.io/)<br>- ⚡ Fun fact: Legends never die!!!
 
 
 ## 🌐 Socials:
