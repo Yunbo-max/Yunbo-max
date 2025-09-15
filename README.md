@@ -5,9 +5,9 @@ I am a PhD candidate at the University of Cambridge focusing on unifying data un
 ## Research Interests
 - **Latent Space Unification**: Joint embedding/decoding frameworks for heterogeneous (text, tabular, graph, multimodal) data
 - **Diffusion + Language Model Hybrids (DLMs)**: Integrating discrete token modeling with continuous stochastic generative processes
-- **Structured & Graph Generation**: Topology-aware diffusion, constraint satisfaction, and semantic controllability
-- **Mixed-Type & Tabular Modeling**: Generative handling of continuous, categorical, ordinal, and sparse relational fields
+- **Mixed-Type & Tabular DATA Generation**: Generative handling of continuous, categorical, ordinal, and sparse relational fields
 - **Multimodal Alignment**: Cross-domain latent factorization and conditional synthesis
+- **Private Graph Generation**: Graph Distillation
 - **Privacy & Decentralization**: Federated / decentralized training, secure aggregation, and distribution shift robustness
 
 
