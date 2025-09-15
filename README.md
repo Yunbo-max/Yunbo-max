@@ -14,5 +14,4 @@ I am a PhD candidate at the University of Cambridge focusing on unifying data un
 **Contact**: [Academic Homepage](https://yunbo-max.github.io/)
 
 ## Professional Networks
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yunbo-long-ab192a1b7) [![YouTube](https://img.shields.io/badge/Research%20Channel-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@@baldwinlong5277) 
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yunbo-long-ab192a1b7)
