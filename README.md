@@ -13,5 +13,5 @@ I am a PhD candidate at the University of Cambridge focusing on unifying data un
 
 **Contact**: [Academic Homepage](https://yunbo-max.github.io/)
 
-## Professional Networks
+## Career Networks
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/yunbo-long-ab192a1b7)
